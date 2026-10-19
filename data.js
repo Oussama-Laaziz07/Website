@@ -54,12 +54,12 @@ let ads = [
     },
     {
         id: 6,
-        title: "PlayStation 4 Slim + 2 Manettes",
-        price: 2200,
+        title: "PlayStation 5 Slim + 2 Manettes",
+        price: 8900,
         category: "Informatique",
         city: "Marrakech",
         image: "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80",
-        description: "Console en excellent état avec deux manettes DualShock 4 et trois jeux inclus."
+        description: "Console en excellent état avec deux manettes DualShock 5 et trois jeux inclus."
     },
     {
         id: 7,
