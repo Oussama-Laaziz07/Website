@@ -10,7 +10,7 @@ let ads = [
     {
         id: 1,
         title: "Vélo de ville vintage - Bon état",
-        price: 1200,
+        price: 800,
         category: "Sports & Loisirs",
         city: "Casablanca",
         image: "/images/velo.jpg",
@@ -19,7 +19,7 @@ let ads = [
     {
         id: 2,
         title: "PC Portable Lenovo LOQ RTX 3050",
-        price: 7500,
+        price: 5800,
         category: "Informatique",
         city: "Tanger",
         image: "/images/pc.jpg",
@@ -28,7 +28,7 @@ let ads = [
     {
         id: 3,
         title: "Appartement 2 pièces meublé",
-        price: 4500,
+        price: 3200,
         category: "Immobilier",
         city: "Tanger",
         image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=600&auto=format&fit=crop&q=80",
@@ -37,7 +37,7 @@ let ads = [
     {
         id: 4,
         title: "Voiture Dacia Logan - Diesel",
-        price: 65000,
+        price: 75000,
         category: "Automobile",
         city: "Casablanca",
         image: "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=600&auto=format&fit=crop&q=80",
@@ -46,29 +46,74 @@ let ads = [
     {
         id: 5,
         title: "Canapé 3 places moderne",
-        price: 2300,
+        price: 1400,
         category: "Maison & Déco",
         city: "Rabat",
         image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop&q=80",
-        description: "Canapé confortable en tissu gris clair, très bon état, presque neuf. À venir récupérer sur place."
+        description: "Canapé confortable en tissu vert, très bon état, presque neuf. À venir récupérer sur place."
     },
     {
         id: 6,
         title: "PlayStation 5 Slim + 2 Manettes",
-        price: 8900,
+        price: 4500,
         category: "Informatique",
         city: "Marrakech",
         image: "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&auto=format&fit=crop&q=80",
-        description: "Console en excellent état avec deux manettes DualShock 5 et trois jeux inclus."
+        description: "Console PS5 Slim version disque en parfait état avec deux manettes DualSense."
     },
     {
         id: 7,
         title: "Salon de jardin en rotin",
-        price: 3400,
+        price: 1800,
         category: "Maison & Déco",
         city: "Agadir",
         image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&auto=format&fit=crop&q=80",
-        description: "Salon de jardin complet comprenant une table basse et des coussins étanches. Idéal pour terrasse ou balcon."
+        description: "Salon de jardin complet comprenant une table basse et des coussins étanches. Idéal pour terrasse."
+    },
+    {
+        id: 8,
+        title: "iPhone 13 - 128Go (Batterie 88%)",
+        price: 4500,
+        category: "Informatique",
+        city: "Casablanca",
+        image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80",
+        description: "Téléphone en excellent état, toujours protégé avec coque et verre trempé. Vendu avec boîte et câble d'origine."
+    },
+    {
+        id: 9,
+        title: "Scooter SYM Orbit 3 - Modèle 2022",
+        price: 11000,
+        category: "Automobile",
+        city: "Tanger",
+        image: "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600&auto=format&fit=crop&q=80",
+        description: "Scooter très propre, faible kilométrage (14 000 km). Pneus récents, papiers en règle vignette payée."
+    },
+    {
+        id: 10,
+        title: "Machine à laver Whirlpool 8kg",
+        price: 2200,
+        category: "Maison & Déco",
+        city: "Rabat",
+        image: "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&auto=format&fit=crop&q=80",
+        description: "Machine à laver automatique en très bon état de marche. Silencieuse et économique. Cause déménagement."
+    },
+    {
+        id: 11,
+        title: "Bureau moderne pour télétravail",
+        price: 900,
+        category: "Maison & Déco",
+        city: "Marrakech",
+        image: "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=600&auto=format&fit=crop&q=80",
+        description: "Bureau en bois robuste avec tiroir de rangement intégré. Design épuré, parfait pour chambre ou salon."
+    },
+    {
+        id: 12,
+        title: "Appareil photo Canon EOS 2000D",
+        price: 3500,
+        category: "Sports & Loisirs",
+        city: "Agadir",
+        image: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&auto=format&fit=crop&q=80",
+        description: "Idéal pour débuter en photographie. Vendu avec objectif 18-55mm, sacoche de transport et carte SD 32Go."
     }
 ];
 
